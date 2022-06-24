@@ -1,0 +1,38 @@
+Welcome to asterisc Hotel
+
+:: MENU ::
+1. Samosa @20/-
+2. Tea    @10/-
+3. Dosa   @35/-
+0. Exit
+Enter your Choice : 1
+Ok.. how many plats ?
+3
+ok anything else
+:: MENU ::
+1. Samosa @20/-
+2. Tea    @10/-
+3. Dosa   @35/-
+0. Exit
+Enter your Choice : 2
+Ok.. how many cups ?
+3
+ok anything else
+:: MENU ::
+1. Samosa @20/-
+2. Tea    @10/-
+3. Dosa   @35/-
+0. Exit
+Enter your Choice : 0
+
+Sr. | item   |  amt | qty | bill
+---------------------------------
+1     Samosa     20    3     60
+2     Tea        10    3     30
+----------------------------------
+                      Amt Rs.90
+Enter your Cash: 50
+
+I Need 40 Rs more
+Return 10 Rs. coin
+T h a n k    Y o u!
